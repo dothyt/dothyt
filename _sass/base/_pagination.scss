@@ -1,0 +1,46 @@
+@use "variables";
+
+.pagination {
+  border-top: .5px solid variables.$grey-2;
+  font-family: variables.$sans-serif;
+  padding-top: 2rem;
+  position: relative;
+  text-align: center;
+
+  span {
+    color: variables.$default-shade;
+    font-size: 1.1rem;
+  }
+
+  .top {
+    @include variables.transition(all .3s ease-out);
+    color: variables.$default-color;
+    font-size: 1.1rem;
+    opacity: .6;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .next {
+    @include variables.transition(all .3s ease-out);
+    color: variables.$default-color;
+    font-size: 0.9rem;
+    position: absolute;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+      text-decoration: none;
+    }
+  }
+
+  .left {
+    left: 0;
+  }
+
+  .right {
+    right: 0;
+  }
+}

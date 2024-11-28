@@ -1,0 +1,17 @@
+@use "sass:color";
+.social-layer {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  color: color.adjust(gray, $lightness: 30%);
+  font-size: 0.9em;
+
+  .social-icons {
+    ul {
+     list-style: none;
+      li {
+        display: inline;
+      }
+    }
+  }
+}
