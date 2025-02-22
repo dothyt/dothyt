@@ -12,7 +12,7 @@ mentored by [Sameh Elnikety](https://www.microsoft.com/en-us/research/people/sam
 
 # Interests
 
-I am interesed in operating system, distributed system, machine learning, and neural network.
+I am interested in operating system, distributed system, machine learning, and neural network.
 Specifically applying modern neural network method to solve traditional system problem.
 
 
@@ -27,7 +27,7 @@ Specifically applying modern neural network method to solve traditional system p
   Yiying Zhang, **Yutong Huang**  <br>
   ACM SIGOPS Operating Systems Review
 
-- [**LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation**](https://www.usenix.org/system/files/osdi18-shan.pdf) <br>
+- [**LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation (Best Paper Award)**](https://www.usenix.org/system/files/osdi18-shan.pdf) <br>
   Yizhou Shan, **Yutong Huang**, Yilun Chen, Yiying Zhang <br>
   13th USENIX Symposium on Operating Systems Design and Implementation ([OSDI 18](https://www.usenix.org/conference/osdi18))
 
