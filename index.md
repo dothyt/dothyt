@@ -18,6 +18,10 @@ Specifically applying modern neural network method to solve traditional system p
 
 # Publications
 
+- [**Deep-Learning-Driven Prefetching for Far Memory**](https://arxiv.org/abs/2506.00384) <br>
+  **Yutong Huang**, Zhiyuan Guo, Yiying Zhang <br>
+  arxiv preprint arXiv:2506.00384
+
 - [**Clio: a hardware-software co-designed disaggregated memory system**](https://dl.acm.org/doi/abs/10.1145/3503222.3507762) <br>
   Zhiyuan Guo, Yizhou Shan, Xuhao Luo, **Yutong Huang**, Yiying Zhang <br>
   Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
