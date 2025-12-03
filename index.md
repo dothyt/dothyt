@@ -4,10 +4,10 @@ layout: about
 
 # About Me
 
-I am a 5th year PhD student from [Wuklab](https://wuklab.io/) at UCSD CSE,
+I am a 6th year PhD student from [Wuklab](https://wuklab.io/) at UCSD CSE,
 advised by Prof. [Yiying Zhang](https://cseweb.ucsd.edu/~yiying/).
 Before UCSD, I interned at [Cloud Efficiency Group in MSR](https://www.microsoft.com/en-us/research/group/azure-research-systems/),
-mentored by [Sameh Elnikety](https://www.microsoft.com/en-us/research/people/samehe/)
+mentored by [Sameh Elnikety](https://www.microsoft.com/en-us/research/people/samehe/). Here is my [resume](assets/resume.pdf)
 
 
 # Interests
@@ -18,9 +18,13 @@ Specifically applying modern neural network method to solve traditional system p
 
 # Publications
 
-- [**Deep-Learning-Driven Prefetching for Far Memory**](https://arxiv.org/abs/2506.00384) <br>
+- [**Learning Semantics, Not Addresses: Runtime Neural Prefetching for Far Memory**](https://arxiv.org/abs/2506.00384) <br>
   **Yutong Huang**, Zhiyuan Guo, Yiying Zhang <br>
   arxiv preprint arXiv:2506.00384
+
+- [**An Early Exploration of Deep-Learning-Driven Prefetching for Far Memory**](https://openreview.net/pdf?id=EO3qyTPnk8) <br>
+  **Yutong Huang**, Zhiyuan Guo, Yiying Zhang <br>
+  ML For Systems workshop at Neural Information Processing Systems ([NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/workshop/109537))
 
 - [**Clio: a hardware-software co-designed disaggregated memory system**](https://dl.acm.org/doi/abs/10.1145/3503222.3507762) <br>
   Zhiyuan Guo, Yizhou Shan, Xuhao Luo, **Yutong Huang**, Yiying Zhang <br>
