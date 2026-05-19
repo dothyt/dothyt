@@ -18,6 +18,10 @@ Specifically applying modern neural network method to solve traditional system p
 
 # Publications
 
+- [**TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents**](https://arxiv.org/abs/2605.17320) <br>
+  **Yutong Huang**, Vikranth Srivatsa, Alex Asch, Hansin Tushar Patwa, Yiying Zhang <br>
+  arxiv preprint arXiv:2605.17320
+
 - [**Learning Semantics, Not Addresses: Runtime Neural Prefetching for Far Memory**](https://arxiv.org/abs/2506.00384) <br>
   **Yutong Huang**, Zhiyuan Guo, Yiying Zhang <br>
   arxiv preprint arXiv:2506.00384
