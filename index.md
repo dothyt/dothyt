@@ -18,6 +18,10 @@ Specifically applying modern neural network method to solve traditional system p
 
 # Publications
 
+- [**BunshinRL: Whole-Workspace Forking for Agentic Reinforcement Learning Rollouts**](https://arxiv.org/abs/2611.10453) <br>
+  **Yutong Huang**, Vikranth Srivatsa, Alex Asch, Yiying Zhang <br>
+  arxiv preprint arXiv:2611.10453
+
 - [**TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents**](https://arxiv.org/abs/2605.17320) <br>
   **Yutong Huang**, Vikranth Srivatsa, Alex Asch, Hansin Tushar Patwa, Yiying Zhang <br>
   arxiv preprint arXiv:2605.17320
